@@ -1,0 +1,10 @@
+Armin 6 50.5
+Eren 3 300.4
+Jean 4 2.1
+Pixis 2 1.7
+Levi 5 1.4
+Hange 1 1.8
+Pieck 9 20.4
+Marco 7 1.9
+Reiner 8 18.4
+Grisha 50 19.4
