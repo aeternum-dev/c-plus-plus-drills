@@ -1,2 +1,1 @@
-# Prog1
-Magas szintű programozási nyelvek 1 /  High Level Programming Languages 1
+Various drill-excerises from Bjarne Stroustrup's Programming -- Principles and Practice Using C++
